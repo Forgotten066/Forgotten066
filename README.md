@@ -19,10 +19,9 @@
 Hi! I’m an aspiring Python backend developer with a passion for creating efficient and scalable server-side solutions. 
 
 
+
 ### Frameworks
-
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a></br>
-
 
 
 ### Tools
