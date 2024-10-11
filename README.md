@@ -8,53 +8,39 @@
         <img src="https://komarev.com/ghpvc/?username=Forgotten066&style=flat-circle&color=green"/>
     </a>
     <a href="https://user-badge.committers.top/kazakhstan_private/Forgotten066">
-        <img src="https://user-badge.committers.top/kazakhstan_private/Forgotten066.svg" alt="committers.top badge">
+        <img src="https://user-badge.committers.top/kazakhstan_private/Forgotten066.svg" alt="значок committers.top">
     </a>
-
 </div>
 
+# О себе
+Привет! Я начинающий бэкенд-разработчик на Python с увлечением созданием эффективных и масштабируемых серверных решений.
 
-
-# About Me
-Hi! I’m an aspiring Python backend developer with a passion for creating efficient and scalable server-side solutions. 
-
-
-
-### Frameworks
+### Фреймворки
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a></br>
 
-
-### Tools
+### Инструменты
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
 <br></br>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
+## Специализация
+Хотя у меня есть разнообразные навыки работы с разными технологиями, моя основная специализация — **бэкенд-разработка**. У меня есть значительный опыт работы с Django, FastAPI и проектированием RESTful API. Это позволяет мне создавать надежные и масштабируемые серверные системы, обеспечивая бесшовную интеграцию с интерфейсами и эффективное управление данными.
 
+Кроме того, я недавно начал изучать искусственный интеллект и активно пишу **код, связанный с ИИ**. Это новое направление дополняет мою бэкенд-экспертизу и расширяет мои возможности для разработки интеллектуальных, основанных на данных приложений.
 
+## Навыки и технологии (2024.01)
+- **Бэкенд-разработка:** Django, Django REST Framework, FastAPI, RESTful API проектирование
+- **Фронтенд-разработка:** HTML5, CSS3, Bootstrap
+- **Управление базами данных:** MySQL, PostgreSQL, SQLite
+- **Дизайн и мультимедиа:** Adobe Photoshop, Illustrator, Figma, Canva
+- **Контроль версий и совместная работа:** Git, GitHub, GitLab
+- **Другие технологии:** Nginx, Linux, Trello, Jira, Aiogram, Telegram API, Beautiful Soup, Docker, Pillow
 
-<!-- Specialization -->
-<h2><b>Specialization</b></h2>
-<p>While I have a diverse skill set across various technologies, my primary focus is on <strong>Backend Development</strong>. I have extensive experience working with Django, FastAPI, and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.</p>
-<p>Additionally, I have recently embarked on studying artificial intelligence and have been actively writing <strong>AI-related</strong> code. This new direction complements my backend expertise and broadens my ability to develop intelligent, data-driven applications.</p>
-<h2><b>Skills & Technologies for 2024.01</b></h2>
-<ul>
-    <li><strong>Backend Development:</strong> Django, Django REST Framework, FastAPI, RESTful API design</li>
-    <li><strong>Frontend Development:</strong> HTML5, CSS3, Bootstrap</li>
-    <li><strong>Database Management:</strong> MySQL, PostgreSQL, SQLite</li>
-    <li><strong>Design & Multimedia:</strong> Adobe Photoshop, Illustrator, Figma, Canva</li>
-    <li><strong>Version Control & Collaboration:</strong> Git, GitHub, GitLab</li>
-    <li><strong>Other Technologies:</strong> Nginx, Linux, Trello, Jira, Aiogram, Telegram API, Beautiful Soup, Docker,Pillow</li>
-</ul>
-
-
-
-# Favourite language & Software
-Favorite Programming Language: Python – I appreciate its readability and versatility, which makes it ideal for backend development.
-Favorite Software: Visual Studio Code – I find it incredibly useful for coding with its rich extension ecosystem and user-friendly interface.
-
-
+## Любимый язык и программное обеспечение
+- **Любимый язык программирования:** Python – ценю его читаемость и универсальность, которые делают его идеальным для бэкенд-разработки.
+- **Любимое программное обеспечение:** Visual Studio Code – невероятно удобное для программирования благодаря богатой экосистеме расширений и удобному интерфейсу.
 
 <table align="center">
   <tr>
@@ -93,7 +79,6 @@ Favorite Software: Visual Studio Code – I find it incredibly useful for coding
     <a href='https://instagram.com/aslanov_sh_21'>Instagram</a> - 
     <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
 </div>
-
 
 <!-- Footer -->
 <img src="./icons/footer.png" alt="Footer" width="100%" height="90%">
