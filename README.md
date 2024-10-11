@@ -15,9 +15,16 @@
 
 
 
-# About Me
-Hi! I’m an aspiring Python backend developer with a passion for creating efficient and scalable server-side solutions. 
+<!-- About me -->
 
+<h2>About Me</h2>
+<ul>
+    <li>Software developer with bold ideas</li>
+    <li>Currently working on an open-source project called 
+        <strong>CamAI-Search</strong>
+    </li>
+    <li>Graduated with a degree in Computer Science and 1 year of experience as a Python developer</li>
+    <li>Passionate about various technologies including , Django, RESTful, FastAPI and more</li>
 
 
 ### Frameworks
