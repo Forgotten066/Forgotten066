@@ -34,8 +34,20 @@ Hi! I’m an aspiring Python backend developer with a passion for creating effic
 
 
 
-# Specialization
-As a beginner in backend development, I focus on using Python to build robust server-side applications. My training has provided me with hands-on experience in designing APIs, working with databases, and implementing core backend functionalities. I’m eager to apply my skills in real-world projects and continue growing as a developer.
+<!-- Specialization -->
+<h2><b>Specialization</b></h2>
+<p>While I have a diverse skill set across various technologies, my primary focus is on <strong>Backend Development</strong>. I have extensive experience working with Django, FastAPI, and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.</p>
+<p>Additionally, I have recently embarked on studying artificial intelligence and have been actively writing <strong>AI-related</strong> code. This new direction complements my backend expertise and broadens my ability to develop intelligent, data-driven applications.</p>
+<h2><b>Skills & Technologies for 2024.01</b></h2>
+<ul>
+    <li><strong>Backend Development:</strong> Django, Django REST Framework, FastAPI, RESTful API design</li>
+    <li><strong>Frontend Development:</strong> HTML5, CSS3, Bootstrap</li>
+    <li><strong>Database Management:</strong> MySQL, PostgreSQL, SQLite</li>
+    <li><strong>Design & Multimedia:</strong> Adobe Photoshop, Illustrator, Figma, Canva</li>
+    <li><strong>Version Control & Collaboration:</strong> Git, GitHub, GitLab</li>
+    <li><strong>Other Technologies:</strong> Nginx, Linux, Trello, Jira, Aiogram, Telegram API, Beautiful Soup, Docker,Pillow</li>
+</ul>
+
 
 # Skills Technologies 2024.01
 Python Programming: Gained proficiency through hands-on projects and coursework, focusing on clean code and efficient algorithms.
@@ -74,3 +86,24 @@ Favorite Software: Visual Studio Code – I find it incredibly useful for coding
 </table>
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
+<!-- Icons and Contacts -->
+<div id="header" align="center">
+    <img width="15px" height="15px" src="./icons/discord.png" />
+    <img width="15px" height="15px" src="./icons/facebook.png" />
+    <img width="15px" height="15px" src="./icons/linkedin.png" />
+    <img width="15px" height="15px" src="./icons/pinterst.png" />
+    <img width="15px" height="15px" src="./icons/telegram.png" />
+    <img width="15px" height="15px" src="./icons/vk.png" />
+    <img width="15px" height="15px" src="./icons/whatsapp.png" />
+    <img width="15px" height="15px" src="./icons/youtube.png" />
+    <img width="15px" height="15px" src="./icons/gmail.png" />
+    <img width="15px" height="15px" src="./icons/instagram.png" />
+    <br>
+    <a href='https://t.me/forgotten_21'>Telegram</a> -
+    <a href='https://instagram.com/aslanov_sh_21'>Instagram</a> - 
+    <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
+</div>
+
+
+<!-- Footer -->
+<img src="./icons/footer.png" alt="Footer" width="100%" height="90%">
