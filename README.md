@@ -76,23 +76,7 @@ Favorite Software: Visual Studio Code – I find it incredibly useful for coding
 </table>
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<!-- Icons and Contacts -->
-<div id="header" align="center">
-    <img width="15px" height="15px" src="./icons/discord.png" />
-    <img width="15px" height="15px" src="./icons/facebook.png" />
-    <img width="15px" height="15px" src="./icons/linkedin.png" />
-    <img width="15px" height="15px" src="./icons/pinterst.png" />
-    <img width="15px" height="15px" src="./icons/telegram.png" />
-    <img width="15px" height="15px" src="./icons/vk.png" />
-    <img width="15px" height="15px" src="./icons/whatsapp.png" />
-    <img width="15px" height="15px" src="./icons/youtube.png" />
-    <img width="15px" height="15px" src="./icons/gmail.png" />
-    <img width="15px" height="15px" src="./icons/instagram.png" />
-    <br>
-    <a href='https://t.me/forgotten_21'>Telegram</a> -
-    <a href='https://instagram.com/aslanov_sh_21'>Instagram</a> - 
-    <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
-</div>
 
 <!-- Footer -->
-<img src="footer.png" alt="Footer" width="100%" height="90%">
+![GitHub Snake Light](https://github.com/Forgotten066/Forgotten066/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Forgotten066/Forgotten066/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
