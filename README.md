@@ -78,5 +78,13 @@ Favorite Software: Visual Studio Code – I find it incredibly useful for coding
 
 
 <!-- Footer -->
-![GitHub Snake Light](https://github.com/Forgotten066/Forgotten066/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Forgotten066/Forgotten066/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<div align="center" style="margin-top: 20px;">
+    <hr style="border: none; height: 1px; background-color: #333;" />
+    <p style="font-size: 14px; color: #777;">
+        © 2024 Forgotten066. All rights reserved.
+    </p>
+    <p style="font-size: 12px; color: #555;">
+        Made with using GitHub.
+    </p>
+</div>
+
