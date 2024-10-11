@@ -49,16 +49,6 @@ Hi! I’m an aspiring Python backend developer with a passion for creating effic
 </ul>
 
 
-# Skills Technologies 2024.01
-Python Programming: Gained proficiency through hands-on projects and coursework, focusing on clean code and efficient algorithms.
-API Development: Experienced in designing and implementing RESTful APIs to facilitate smooth communication between services.
-Database Management: Knowledgeable in using SQL database for storing and retrieving data effectively.
-
-
-Django: Practical experience in building web applications with these Python frameworks.
-PostgreSQL: Hands-on experience with relational databases for managing and querying data.
-Docker: Basic understanding of containerization to streamline development and deployment processes.
-Git: Proficient in using Git for source code management and collaboration.
 
 # Favourite language & Software
 Favorite Programming Language: Python – I appreciate its readability and versatility, which makes it ideal for backend development.
